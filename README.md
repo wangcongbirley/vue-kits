@@ -4,3 +4,6 @@
 ### npm管理器
 
 #### npm命令
+
+#### vue组件
+vue组件控制v-if v-on @change @click :sync
