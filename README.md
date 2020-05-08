@@ -12,3 +12,8 @@
 vue 语法：v-if v-on @change @click :sync
 
 vue.config.js配置
+
+部署发布：
+npm run build:prod
+npm run build:stage
+在package.json文件下定义build命令。
